@@ -4,7 +4,7 @@
 
 - 🎓 **Robotics Engineering** student
 - 🔭 I’m currently programming in **Python** and **C++**
-- 👯 I’m always open to **collaborate** with other **content creators**                                                                                
+- 👯 I’m always open to **collaborate** and learn.                                                                             
 - ⚡ Fun facts: **Long distance runner**, **guitarist**
 - 📫 Contact me: **reachthomas98@gmail.com**
 
