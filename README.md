@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Amal, Welcome to my profile.</h1>
+<h1 align="center">Hi! I'm Amal, welcome to my profile.</h1>
 <h3 align="center">"To improve the quality of life of all individuals that I have been blessed to touch either personally or through the results of my work."</h3>
 
 
