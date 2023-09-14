@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">A robotics enthusiast who likes drone development with machine learning.</h3>
+<h1 align="center">Hi, I'm Amal</h1>
+<h3 align="center">"Welcome to my profile!"</h3>
 
-- 🔭 I’m currently working on **CNN based landing site classification**
-
+- 🎓 **Robotics Engineering** student
+- 🔭 I’m currently programming in **Python** and **C++**
+- 👯 I’m always open to **collaborate** with other **content creators**                                                                                
+- ⚡ Fun facts: **Long distance runner**, **guitarist**
 - 📫 Contact me: **reachthomas98@gmail.com**
-
-- ⚡ **I like to learn one new thing every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
