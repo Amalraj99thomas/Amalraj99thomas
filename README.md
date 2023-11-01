@@ -7,7 +7,9 @@
 - 🌱 &nbsp;I’m currently learning about **Go and C++**.
 - 💬 &nbsp;Ask me about anything related to **R/Python** or **Data Science, Machine Learning & Robotics**.                                                                           
 - ⚡ &nbsp;Fun facts: **Long distance runner**, **guitarist** :wink:
-- 📫 &nbsp;Contact me: **reachthomas98@gmail.com**
+- 📫 &nbsp;Email me: **reachthomas98@gmail.com**
+
+<br>
 
 #### :hammer_and_wrench: Languages and Tools :
 
@@ -25,12 +27,8 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>
 </div>
-
     
-</a>
-</a>
-</a>
-
+<br>
 
 &nbsp;**Connect with me** 🔗
 <p align="left">
