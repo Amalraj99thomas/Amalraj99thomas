@@ -1,12 +1,13 @@
 <h1 align="center">Hi! I'm Amal, welcome to my profile.</h1>
-<h3 align="center">"To improve the quality of life of all individuals that I have been blessed to touch either personally or through the results of my work."</h3>
+<h3 align="center">"I'm a Data Science Researcher at Proctor & Gamble"</h3>
 
 
-- 🎓 **AI and Robotics Engineering** student
-- 🔭 I enjoy doing **Data Science** and **Machine Learning** projects.
-- 👯 I’m always open to **collaborate** and learn.                                                                             
-- ⚡ Fun facts: **Long distance runner**, **guitarist**
-- 📫 Contact me: **reachthomas98@gmail.com**
+- 🎓 &nbsp;**AI and Robotics Engineering** student
+- 🔭 &nbsp;Aspiring **Data Scientist**. I'm currently working on Data Science and ML projects.
+- 🌱 &nbsp;I’m currently learning about **Go and C++**.
+- 💬 &nbsp;Ask me about anything related to **R/Python** or **Data Science, Machine Learning & Robotics**.                                                                           
+- ⚡ &nbsp;Fun facts: **Long distance runner**, **guitarist** :wink:
+- 📫 &nbsp;Contact me: **reachthomas98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
