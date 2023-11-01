@@ -2,8 +2,8 @@
 <h3 align="center">"To improve the quality of life of all individuals that I have been blessed to touch either personally or through the results of my work."</h3>
 
 
-- 🎓 **Robotics Engineering** student
-- 🔭 I’m currently programming in **Python** and **C++**
+- 🎓 **AI and Robotics Engineering** student
+- 🔭 I enjoy doing **Data Science** and **Machine Learning** projects.
 - 👯 I’m always open to **collaborate** and learn.                                                                             
 - ⚡ Fun facts: **Long distance runner**, **guitarist**
 - 📫 Contact me: **reachthomas98@gmail.com**
