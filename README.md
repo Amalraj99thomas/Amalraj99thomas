@@ -7,7 +7,7 @@
 - 🌱 &nbsp;I’m currently learning about **Go and C++**.
 - 💬 &nbsp;Ask me about anything related to **R/Python** or **Data Science, Machine Learning & Robotics**.                                                                           
 - ⚡ &nbsp;Fun facts: **Long distance runner**, **guitarist** :wink:
-- 📫 &nbsp;**Portfolio**: <a href="https://amalraj99thomas.github.io" target= "_blank">View Website<br /></a>
+- 📫 &nbsp;**Portfolio**: <a href="https://amalraj99thomas.github.io/" target= "_blank"> View Website</a>
 
 <br>
 
