@@ -2,9 +2,9 @@
 <h3 align="center">"I'm a Data Science Researcher at Proctor & Gamble"</h3>
 
 
-- 🎓 &nbsp;**AI and Robotics Engineering** student.
+- 🎓 &nbsp;**Artificial Intelligence and Robotics Engineering** student.
 - 🔭 &nbsp;Aspiring **Data Scientist**. I'm currently working on Data Science and ML projects.
-- 🌱 &nbsp;I’m currently learning about **Go and C++**.
+- 🌱 &nbsp;I’m currently learning about **Scala and C++**.
 - 💬 &nbsp;Ask me about anything related to **R/Python** or **Data Science, Machine Learning & Robotics**.                                                                           
 - ⚡ &nbsp;Fun facts: **Long distance runner**, **guitarist** :wink:
 - 📫 &nbsp;**Portfolio**: <a href="https://amalraj99thomas.github.io/" target= "_blank"> View Website</a>
