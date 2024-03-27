@@ -1,13 +1,14 @@
-<h1 align="center">Hi there! I'm Amal</h1>
-<h3 align="center">"I'm a Data Science Researcher at Proctor & Gamble"</h3>
+<h1 align="center">Hello there! I'm Amal</h1>
+<h3 align="center">"ML Engineer at Proctor & Gamble"</h3>
 
 
-- 🎓 &nbsp;**Artificial Intelligence and Robotics Engineering** student.
-- 🔭 &nbsp;Aspiring **Data Scientist**. I'm currently working on Data Science and ML projects.
-- 🌱 &nbsp;I’m currently learning about **Scala and C++**.
-- 💬 &nbsp;Ask me about anything related to **R/Python** or **Data Science, Machine Learning & Robotics**.                                                                           
-- ⚡ &nbsp;Fun facts: **Long distance runner**, **guitarist** :wink:
-- 📫 &nbsp;**Portfolio**: <a href="https://amalraj99thomas.github.io/" target= "_blank"> View Website</a>
+
+- 🔭 &nbsp;Aspiring **ML Engineer/Data Scientist roles**.
+- 🎓 &nbsp;**ML and Robotics Engineering** student.
+- 🌱 &nbsp;I'm currently working on Data Science and ML projects.
+- 💬 &nbsp;Feel free to discuss about  topics related to **engineering** or **Artificial Intelligence**.Or just say a **Hi**                                                                          
+- ⚡ &nbsp;Random facts: **Long distance runner**, **guitarist** :wink:
+- 📫 &nbsp;**Portfolio**: <a href="https://amalraj99thomas.github.io/AmalThomas.github.io/" target= "_blank"> View Website</a>
 
 <br>
 
