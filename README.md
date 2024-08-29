@@ -1,10 +1,10 @@
 <h1 align="center">Hello there! I'm Amal</h1>
-<h3 align="center">"ML Engineer at Proctor & Gamble"</h3>
+<h3 align="center">"Exploring the vast world of AI"</h3>
 
 
 
 - 🔭 &nbsp;Aspiring **ML Engineer/Data Scientist roles**.
-- 🎓 &nbsp;**ML and Robotics Engineering** student.
+- 🎓 &nbsp;**Machine Learning and Robotics Engineering** student.
 - 🌱 &nbsp;I'm currently working on Data Science and ML projects.
 - 💬 &nbsp;Feel free to discuss about  topics related to **engineering** or **Artificial Intelligence**.Or just say a **Hi**                                                                          
 - ⚡ &nbsp;Random facts: **Long distance runner**, **guitarist** :wink:
