@@ -4,9 +4,9 @@
 
 
 - 🔭 &nbsp;Aspiring **ML Engineer/Data Scientist roles**.
-- 🎓 &nbsp;**Machine Learning and Robotics Engineering** student.
-- 🌱 &nbsp;I'm currently working on Data Science and ML projects.
-- 💬 &nbsp;Feel free to discuss about  topics related to **engineering** or **Artificial Intelligence**.Or just say a **Hi**                                                                          
+- 🎓 &nbsp;**Mechanical Engineering** student.
+- 🌱 &nbsp;Currently working on creative projects to improve my skillset.
+- 💬 &nbsp;Welcome to discuss **data science** or **AI related** topics. Or just say a crisp **Hi!**                                                                          
 - ⚡ &nbsp;Random facts: **Long distance runner**, **guitarist** :wink:
 - 📫 &nbsp;**Portfolio**: <a href="https://amalraj99thomas.github.io/AmalThomas.github.io/" target= "_blank"> View Website</a>
 
