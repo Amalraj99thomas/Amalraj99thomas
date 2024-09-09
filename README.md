@@ -4,9 +4,7 @@
 - 🌱 &nbsp;Life long learner in data science leveraging machine learning methods and statistics.
 - 💬 &nbsp;Would love to **collaborate** or **discuss** interesting topics related to AI, data, philosophy and engineering.                                                          
 - ⚡ &nbsp;Random facts: **Long distance runner**, **guitarist** 
-
 <br>
-
 #### :hammer_and_wrench: Languages and Tools :
 
 <div>
