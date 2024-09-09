@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Amal</h1>
+<h2 align="center">Hello there! I'm Amal</h2>
 <h3 align="center">"Exploring the vast world of Data"</h3>
 
 - 🌱 &nbsp;Life long learner in data science leveraging machine learning methods and statistics.
@@ -6,7 +6,7 @@
 - ⚡ &nbsp;Random facts: **Long distance runner**, **guitarist** 
 <br>
 
-#### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Proficient languages and tools :
 
 <div>
   <a href="https://www.python.org/" target="_blank"> <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
