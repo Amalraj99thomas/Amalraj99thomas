@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! I'm Thomas</h2>
+<h2 align="center">Welcome! I'm Amal</h2>
 <h3 align="center">"Exploring the vast world of Data"</h3>
 
 - 🌱 &nbsp;Life long learner in data science leveraging machine learning methods and statistics.
